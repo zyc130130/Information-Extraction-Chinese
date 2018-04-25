@@ -46,9 +46,7 @@ unknown, 父母, 夫妻, 师生, 兄弟姐妹, 合作, 情侣, 祖孙, 好友, �
 ```
 
 
-### * Inference
-
-**If you have trained a new model, please remember to change the pathname in main_for_evaluation() and main() in test_GRU.py with your own model name.**
+### * Inference, remeber to change the model name:
 
 ```
 #python3 test_GRU.py
